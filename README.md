@@ -1,4 +1,4 @@
 yarn start 
 
-deploy the contract:
+# deploy the contract
 yarn deploy 
